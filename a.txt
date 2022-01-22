@@ -1,5 +1,11 @@
 fclear
+
+
 enviando
 a fucnionalidade
 x
 
+
+enviando 
+a funcionalidada
+y
